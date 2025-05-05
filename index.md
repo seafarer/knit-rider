@@ -1,6 +1,6 @@
 # Knit Rider Cheatsheet
 
-<img src="/img/knit-rider.png" width="560" alt="knit rider diagram" />
+<img src="img/knit-rider.png" width="560" alt="knit rider diagram" />
 
 ## **PLAYBACK \+ EDITING BASICS**
 
