@@ -1,4 +1,6 @@
-## **![][image1]**
+# Knit Rider Cheatsheet
+
+![Knit Rider](/img/knit-rider.png)
 
 ## **PLAYBACK \+ EDITING BASICS**
 
